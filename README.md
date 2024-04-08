@@ -8,7 +8,7 @@ The **DACE** (**D**ata structures and **A**lgorithms for **C**omputational scien
 
 Here are some subject areas we devote our attention to:
 * Data Privacy, Trust, and Security
-* Relational Learning on Graph, Scientific, and Statistical Databases
+* Machine Learning on Structured Data (i.e., Relational Learning on Graph, Scientific, and Statistical Databases)
 
 Other Data Engineering topics
 
