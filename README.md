@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **DACE** (Data structures and Algorithms for Computational science and Engineering) is a research group devoted to the study of algorithms, complexity theory, and data structures for computational science and engineering applications. We use a variety of mathematical and computational tools to study natural, social, physical, and engineering phenomena.
+The **DACE** (**D**ata structures and **A**lgorithms for **C**omputational science and **E**ngineering) is a research group devoted to the study of algorithms, complexity theory, and data structures for computational science and engineering applications. We use a variety of mathematical and computational tools to study natural, social, physical, and engineering phenomena.
 
 ## Topics
 
