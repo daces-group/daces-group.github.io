@@ -7,7 +7,7 @@ The **DACE** (**D**ata structures and **A**lgorithms for **C**omputational scien
 ## Topics
 
 Here are some subject areas we devote our attention to:
-* Trustworthy Machine Learning: Data Privacy, Trust, and Security
+* Trustworthy Statistics and Machine Learning: Data Privacy, Trust, and Security
 * Machine Learning on Structured Data: Relational Learning on Graph, Scientific, and Statistical Databases
 
 Other Data Engineering topics
