@@ -9,7 +9,7 @@ The **DACE** (**D**ata structures and **A**lgorithms for **C**omputational scien
 Here are some subject areas we devote our attention to:
 * Creating and Auditing Trustworthy Statistics and Machine Learning:
     * Data Privacy and Security
-    * Data Trust
+    * Trust in Data Models and Curation Mechanisms
 * Machine Learning on Structured Data and Outcomes
     * Relational Learning on Graphs
     * Scientific Data
