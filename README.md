@@ -10,10 +10,11 @@ Here are some subject areas we devote our attention to:
 * Creating and Auditing Trustworthy Statistics and Machine Learning:
     * Data Privacy and Security
     * Data Trust
-* Machine Learning on Structured Data
+* Machine Learning on Structured Data and Outcomes
     * Relational Learning on Graphs
     * Scientific Data
     * Spatiotemporal and Statistical Databases
+    * Interpretable Machine Learning
 
 Other Data Engineering topics
 
