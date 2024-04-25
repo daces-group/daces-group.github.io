@@ -12,7 +12,7 @@ Here are some subject areas we devote our attention to:
     * Solution Models for Data Privacy and Security
     * Trust in Data Models and Curation Mechanisms
 * Machine Learning on Structured Data and Outcomes:
-    * Relational Learning on Graphs
+    * Graph Embeddings and Relational Graph Learning
     * Scientific Data
     * Spatiotemporal and Statistical Databases
     * Interpretable Machine Learning
