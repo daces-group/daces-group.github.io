@@ -16,7 +16,7 @@ Here are some subject areas we devote our attention to:
     * Scientific Data
     * Spatiotemporal and Statistical Databases
     * Interpretable Machine Learning
+    * Computational Materials Science
 
-Other Data Engineering topics
 
 
