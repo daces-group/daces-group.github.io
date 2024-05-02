@@ -21,4 +21,18 @@ Here are some subject areas we devote our attention to:
     * Computational Materials Science
 
 
+## Team
 
+# Principal Investigators
+
+![Daniel_Alabi_photo_lab_photo](https://github.com/daces-group/daces-group.github.io/assets/928460/d8d32dae-0ca5-4200-b12a-b1cb4298cd00)
+
+[Daniel Alabi](http://alabidan.me)
+
+# Postdocs
+
+# PhD 
+
+# Undergrads
+
+# Alumni
