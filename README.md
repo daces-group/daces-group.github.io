@@ -19,6 +19,7 @@ Here are some subject areas we devote our attention to:
     * Spatiotemporal and Statistical Databases
     * Interpretable Machine Learning
     * Computational Materials Science
+    * Safety of Quantum Information
 
 
 ## Team
@@ -34,6 +35,10 @@ Here are some subject areas we devote our attention to:
 *Incoming*
 
 ### PhD 
+
+*Incoming*
+
+### Masters
 
 *Incoming*
 
