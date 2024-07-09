@@ -22,6 +22,7 @@ Here are some subject areas we devote our attention to:
     * Safety of Quantum Information
 
 
+
 ## Team
 
 ### Principal Investigators
@@ -49,3 +50,7 @@ Here are some subject areas we devote our attention to:
 ### Alumni
 
 *Outgoing*
+
+## Outreach
+We believe that research is best accomplished through working with stakeholders in academia and industry to understand source of problems and to educate the next generation of researchers and practitioners!
+Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
