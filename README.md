@@ -52,5 +52,4 @@ Here are some subject areas we devote our attention to:
 *Outgoing*
 
 ## Outreach
-We believe that research is best accomplished through working with stakeholders in academia and industry to understand source of problems and to educate the next generation of researchers and practitioners!
-Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
+We believe that (theoretical) research is best motivated through working with stakeholders in academia and industry to understand source of problems and to educate the next generation of researchers and practitioners! Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
