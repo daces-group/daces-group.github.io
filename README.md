@@ -8,14 +8,14 @@ The **DACES** (**D**ata structures and **A**lgorithms for **C**ommunications **E
 
 Here are some subject areas we devote our attention to:
 * Creating and Auditing Trustworthy Statistics and Machine Learning:
+    * Trust in Data Models and Curation Mechanisms
     * Attack Models for Data Privacy and Security
     * Solution Models for Data Privacy and Security
-    * Trust in Data Models and Curation Mechanisms
     * Attack Models for Adversarial Robustness
     * Solution Models for Robustness
 * Representation of Structured Data and Outcomes:
     * Graph Embeddings and Relational Graph Learning
-    * Scientific Data
+    * Scientific Data Management
     * Spatiotemporal and Statistical Databases
     * Interpretable Machine Learning
     * Computational Materials Science
@@ -52,4 +52,6 @@ Here are some subject areas we devote our attention to:
 *Outgoing*
 
 ## Outreach
-We believe that (theoretical) research is best motivated through working with stakeholders in academia and industry to understand source of problems and to educate the next generation of researchers and practitioners! Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
+Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
+
+We believe that (theoretical) research is best motivated through working with stakeholders in government, academia, and industry. By working with such stakeholders, we can better understand the source of problems and also modernize how we educate the next generation of researchers and practitioners!
