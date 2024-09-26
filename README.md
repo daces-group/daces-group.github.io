@@ -13,7 +13,7 @@ Here are some subject areas we devote our attention to:
     * Solution Models for Data Privacy and Security
     * Attack Models for Adversarial Robustness
     * Solution Models for Robustness
-* Representation of Structured Data and Outcomes:
+* Representation and Learning of Structured Data and Outcomes:
     * Graph Embeddings and Relational Graph Learning
     * Scientific Data Management
     * Spatiotemporal and Statistical Databases
@@ -54,4 +54,4 @@ Here are some subject areas we devote our attention to:
 ## Outreach
 Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
 
-We believe that (theoretical) research is best motivated through working with stakeholders in government, academia, and industry. By working with such stakeholders, we can better understand the source of problems and also modernize how we educate the next generation of researchers and practitioners!
+We believe that (theoretical) research is best motivated through working with stakeholders in government, academia, and industry. In the process, we can better understand the source of problems and also modernize how we educate the next generation of researchers and practitioners!
