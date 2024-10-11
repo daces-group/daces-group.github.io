@@ -13,12 +13,12 @@ Here are some subject areas we devote our attention to:
     * Solution Models for Data Privacy and Security
     * Attack Models for Adversarial Robustness
     * Solution Models for Robustness
-* Representation and Learning of Structured Data and Outcomes:
+* Representation, Learning, and Verification of Structured Data and Outcomes:
     * Graph Embeddings and Relational Graph Learning
     * Scientific Data Management
     * Spatiotemporal and Statistical Databases
     * Interpretable Machine Learning
-    * Computational Materials Science
+    * Verification of Computational Materials Science
     * Safety of Quantum Information
 
 
