@@ -3,11 +3,11 @@
 ## SIGMOD 2025 Tutorial
 
 ## Organizers
-DANIEL ALABI, University of Illinois Urbana-Champaign, U.S.A.
-SAINYAM GALHOTRA, Cornell University, U.S.A.
-SHAGUFTA MEHNAZ, The Pennsylvania State University, U.S.A.
-ZEYU SONG, The Pennsylvania State University, U.S.A.
-EUGENE WU, Columbia University, U.S.A.
+* DANIEL ALABI, University of Illinois Urbana-Champaign, U.S.A.
+* SAINYAM GALHOTRA, Cornell University, U.S.A.
+* SHAGUFTA MEHNAZ, The Pennsylvania State University, U.S.A.
+* ZEYU SONG, The Pennsylvania State University, U.S.A.
+* EUGENE WU, Columbia University, U.S.A.
 
 ## Abstract
 
