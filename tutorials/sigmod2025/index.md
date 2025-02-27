@@ -21,19 +21,19 @@ decentralized data marketplaces, including adversarial manipulations by buyers o
 overview of privacy and security mechanisms designed to mitigate these risks. In order to enforce the
 least amount of trust for buyers and sellers, we focus on distributed protocols. Finally, we conclude with
 opportunities for future research on understanding and mitigating privacy and security concerns in distributed
-data markets
+data markets.
 
 ## Schedule
 
-### Part I
+### Part I: Survey on Data Markets
 
-### Part II
+### Part II: Privacy and Security Risks
 
-### Part III
+### Part III: Privacy-Preserving Technologies and Security Tools
 
-### Part IV
+### Part IV: Regulatory Considerations
 
-### Part V
+### Part V: Open Problems & Future Work
 
 ### Part VI: Q & A
 
