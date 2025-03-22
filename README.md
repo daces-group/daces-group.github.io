@@ -20,38 +20,3 @@ Here are some subject areas we devote our attention to:
     * Interpretable Machine Learning
     * Verification of Computational Materials Science
     * Safety of Quantum Information
-
-
-
-## Team
-
-### Principal Investigators
-
-![Daniel_Alabi_photo_lab_photo](https://github.com/daces-group/daces-group.github.io/assets/928460/d8d32dae-0ca5-4200-b12a-b1cb4298cd00)
-
-[Daniel Alabi](http://alabidan.me)
-
-### Postdocs
-
-*Incoming*
-
-### PhD 
-
-*Incoming*
-
-### Masters
-
-*Incoming*
-
-### Undergrads
-
-*Incoming*
-
-### Alumni
-
-*Outgoing*
-
-## Outreach
-Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
-
-We believe that (theoretical) research is best motivated through working with stakeholders in government, academia, and industry. In the process, we can better understand the source of problems and also modernize how we educate the next generation of researchers and practitioners!
