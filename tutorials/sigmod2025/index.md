@@ -49,7 +49,7 @@ data markets.
   title        = {Privacy and Security in Distributed Data Markets},
   booktitle    = {Companion of the 2025 International Conference on Management of Data,
                   {SIGMOD/PODS} 2025, Berlin, Germany, June 22-27, 2025},
-  publisher    = {{ACM}},
+  publisher    = { {ACM} },
   year         = {2025}
 }
 ```
