@@ -39,3 +39,17 @@ data markets.
 
 ## BibTeX
 
+```
+@inproceedings{AGMSW25,
+  author       = {Daniel Alabi and
+                  Sainyam Galhotra and
+                  Shagufta Mehnaz and
+                  Zeyu Song and
+                  Eugene Wu},
+  title        = {Privacy and Security in Distributed Data Markets},
+  booktitle    = {Companion of the 2025 International Conference on Management of Data,
+                  {SIGMOD/PODS} 2025, Berlin, Germany, June 22-27, 2025},
+  publisher    = {{ACM}},
+  year         = {2025}
+}
+```
