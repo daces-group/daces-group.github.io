@@ -20,3 +20,11 @@ Here are some subject areas we devote our attention to:
     * Interpretable Machine Learning
     * Verification of Computational Materials Science
     * Safety of Quantum Information
+
+## Courses
+
+* Fall 2025: [Topics in Informaton-Theoretic Cryptography](https://dacesresearch.org/infocrypto/)
+
+## Tutorials
+
+* [SIGMOD 2025 Tutorial](https://dacesresearch.org/tutorials/sigmod2025/)
