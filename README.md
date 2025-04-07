@@ -23,7 +23,7 @@ Here are some subject areas we devote our attention to:
 
 ## Courses
 
-* Fall 2025: [Topics in Informaton-Theoretic Cryptography](https://dacesresearch.org/infocrypto/)
+* [Topics in Informaton-Theoretic Cryptography](https://dacesresearch.org/infocrypto/)
 
 ## Tutorials
 
