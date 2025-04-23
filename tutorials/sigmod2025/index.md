@@ -37,7 +37,9 @@ data markets.
 
 ### Part VI: Q & A
 
-## BibTeX
+## Accompanying Paper
+
+[IACR ePrint](https://eprint.iacr.org/2025/724)
 
 ```
 @inproceedings{AGMSW25,
