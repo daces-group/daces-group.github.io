@@ -49,10 +49,10 @@ data markets.
                   Zeyu Song and
                   Eugene Wu},
   title        = {Privacy and Security in Distributed Data Markets},
-  year = {2025},
+  year         = {2025},
   booktitle    = {Companion of the 2025 International Conference on Management of Data},
-  keywords = {data markets, distributed protocols, privacy, security},
-  location = {Berlin, Germany},
-  series = {SIGMOD/PODS '25}
+  keywords     = {data markets, distributed protocols, privacy, security},
+  location     = {Berlin, Germany},
+  series       = {SIGMOD/PODS '25}
 }
 ```
