@@ -27,13 +27,23 @@ data markets.
 
 ### Part I: Survey on Data Markets
 
+[Slides](./part1.pdf)
+
 ### Part II: Privacy and Security Risks
+
+[Slides](./part2.pdf)
 
 ### Part III: Privacy-Preserving Technologies and Security Tools
 
+[Slides](./part3.pdf)
+
 ### Part IV: Regulatory Considerations
 
+[Slides](./part4.pdf)
+
 ### Part V: Open Problems & Future Work
+
+[Slides](./part5.pdf)
 
 ### Part VI: Q & A
 
