@@ -37,6 +37,8 @@ data markets.
 
 [Slides](./part3.pdf)
 
+[Video](https://psu.mediaspace.kaltura.com/media/SIGMOD+Part+3/1_m2xcuex3)
+
 ### Part IV: Regulatory Considerations
 
 [Slides](./part4.pdf)
