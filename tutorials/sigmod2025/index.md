@@ -23,9 +23,7 @@ least amount of trust for buyers and sellers, we focus on distributed protocols.
 opportunities for future research on understanding and mitigating privacy and security concerns in distributed
 data markets.
 
-## All Slides
-
-[Combined Slides](./parts1to5.pdf)
+[All Slides](./parts1to5.pdf)
 
 ## Schedule
 
