@@ -28,3 +28,6 @@ Here are some subject areas we devote our attention to:
 ## Tutorials
 
 * [SIGMOD 2025 Tutorial](https://dacesresearch.org/tutorials/sigmod2025/)
+
+## Outreach
+Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
