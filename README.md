@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **DACES** (**D**ata structures and **A**lgorithms for **C**ommunications **E**ngineering **S**afety) is a research group devoted to the study of data structures and algorithms for ensuring the trust, reliability, and security of communications infrastructure. Through the lens of information theory, we aim to design and analyze algorithms for trustworthy systems with provable (often cryptographic) guarantees. Whenever possible, we liaise with experts on socio-politics and economics to further understand the consequences of our technical work.
+The **DACES** (**D**ata structures and **A**lgorithms for **C**ommunications **E**ngineering **S**afety) is a research group devoted to the study of data structures and algorithms for ensuring the trust, reliability, and security of communications infrastructure. Through the lens of information theory, we aim to design and analyze algorithms for trustworthy systems with provable guarantees. Whenever possible, we liaise with experts on socio-politics and economics to further understand the consequences of our technical work.
 
 ## Topics
 
@@ -16,7 +16,6 @@ Here are some subject areas we devote our attention to:
 * Representation, Learning, and Verification of Structured Data and Outcomes:
     * Graph Embeddings and Relational Graph Learning
     * Scientific Data Management
-    * Spatiotemporal and Statistical Databases
     * Interpretable Machine Learning
     * Verification of Computational Materials Science
     * Safety of Quantum Information
