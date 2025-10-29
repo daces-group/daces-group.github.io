@@ -8,17 +8,16 @@ The **DACES** (**D**ata structures and **A**lgorithms for **C**ommunications **E
 
 Here are some subject areas we devote our attention to:
 * Creating and Auditing Trustworthy Statistics and Machine Learning:
-    * Trust in Data Models and Curation Mechanisms
-    * Attack Models for Data Privacy and Security
-    * Solution Models for Data Privacy and Security
-    * Attack Models for Adversarial Robustness
-    * Solution Models for Robustness
+    * Attack Models for Data Privacy, Security, Robustness
+    * Solution Models for Data Privacy, Security, Robustness
 * Representation, Learning, and Verification of Structured Data and Outcomes:
     * Graph Embeddings and Relational Graph Learning
-    * Scientific Data Management
-    * Interpretable Machine Learning
-    * Verification of Computational Materials Science
+    * Verification of Computational Science (including Materials Science)
     * Safety of Quantum Information
+
+## People
+
+Check out the [faculty and students in the group](https://dacesresearch.org/people/)!
 
 ## Courses
 
