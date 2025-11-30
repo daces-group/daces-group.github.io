@@ -4,7 +4,9 @@
 
 <img width="320" height="273" alt="Daniel Alabi" src="https://github.com/user-attachments/assets/eed74169-119b-4751-99cd-7535bac43e7f" />
 
-Assistant Professor, [Daniel Alabi](https://alabidan.me)
+[Daniel Alabi](https://alabidan.me)
+
+Assistant Professor, Electrical &amp; Computer Engineering, University of Illinois Urbana-Champaign
 
 ## M.S. Students
 
@@ -12,7 +14,16 @@ Assistant Professor, [Daniel Alabi](https://alabidan.me)
 
 [Tue Ngoc Do](http://tuedo2.github.io/) (co-advised with Varun Chandrasekaran)
 
+- M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+
 <img width="320" height="273" alt="Ben Kim" src="https://github.com/user-attachments/assets/e1ce3de8-59aa-4877-ae98-7370672a06cf" />
 
 [Ben Kim](https://www.linkedin.com/in/bkim34/) (co-advised with Lav Varshney)
 
+- M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+
+## Visiting Students
+
+[Avi Bagchi](https://avibagchi.github.io/) (co-advised with Lav Varshney)
+
+- B.S.E. in Computer Science, University of Pennsylvania
