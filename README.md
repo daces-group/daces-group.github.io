@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **DACES** (**D**ata structures and **A**lgorithms for **C**ommunications **E**ngineering **S**afety) is a research group at [The Grainger College of Engineering](https://grainger.illinois.edu/) of the University of Illinois at Urbana-Champaign. We study data structures and algorithms for ensuring the trust, reliability, and security of *modern* communications infrastructure. Through the lens of the theory of *information, computation, and complexity*, we aim to design and analyze algorithms for trustworthy systems with provable guarantees. Whenever possible, we liaise with experts on socio-politics and economics to further understand the consequences of our technical work.
+The **DACES** (**D**ata structures and **A**lgorithms for **C**ommunications **E**ngineering **S**afety) is a research group at [The Grainger College of Engineering](https://grainger.illinois.edu/) of the University of Illinois at Urbana-Champaign. We study data structures and algorithms for ensuring the trust, reliability, and security of *modern* communications infrastructure. Through the lens of the theory of *information, computation, and complexity*, we aim to design and analyze algorithms for trustworthy systems with provable guarantees.
 
 ## Topics
 
