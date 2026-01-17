@@ -11,8 +11,8 @@ Here are some research topics we devote our attention to:
     * Attack Models for Data Privacy, Security, Robustness
     * Solution Models for Data Privacy, Security, Robustness
 * Representation, Learning, and Verification of Structured Data and Outcomes:
-    * Verification of Computational Science (including Materials Science)
     * Safety of Quantum Information
+    * Verification of Computational Science (including Materials Science)
 
 ## People
 
@@ -21,6 +21,7 @@ Check out the [faculty and students in the group](https://dacesresearch.org/peop
 ## Courses
 
 * Fall 2025: [Topics in Informaton-Theoretic Cryptography](https://dacesresearch.org/infocrypto/)
+* Spring 2026: [Introduction to Algorithms &amp; Models of Computation](https://courses.grainger.illinois.edu/ece374bl1/sp2026/)
 
 ## Tutorials
 
