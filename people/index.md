@@ -22,6 +22,10 @@ Assistant Professor, Electrical &amp; Computer Engineering, University of Illino
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
 
+[Qiyang Wu](https://ece.illinois.edu/about/directory/grad-students/qiyangw2)
+
+- M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+
 ## Visiting Students
 
 [Avi Bagchi](https://avibagchi.github.io/) (co-advised with Lav Varshney)
