@@ -31,3 +31,6 @@ Assistant Professor, Electrical &amp; Computer Engineering, University of Illino
 [Avi Bagchi](https://avibagchi.github.io/) (co-advised with Lav Varshney)
 
 - B.S.E. in Computer Science, University of Pennsylvania
+
+[Siheng Pan](https://www.linkedin.com/in/siheng-pan)
+- M.S. in Computer Science, University of Illinois Urbana-Champaign
