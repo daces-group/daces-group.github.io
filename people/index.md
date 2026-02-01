@@ -16,6 +16,10 @@ Assistant Professor, Electrical &amp; Computer Engineering, University of Illino
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
 
+[Aravind Ilango](https://ece.illinois.edu/about/directory/grad-students/ailango2)
+
+- M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+
 <img width="30%" alt="Ben Kim" src="https://github.com/user-attachments/assets/e1ce3de8-59aa-4877-ae98-7370672a06cf" />
 
 [Ben Kim](https://www.linkedin.com/in/bkim34/) (co-advised with Lav Varshney)
