@@ -11,7 +11,7 @@ Here are some research topics we devote our attention to:
     * Attack Models for Data Privacy, Security, Robustness
     * Solution Models for Data Privacy, Security, Robustness
 * Representation, Learning, and Verification of Structured Data and Outcomes:
-    * Privacy and Security of Information via Quantum Mechanics
+    * Privacy and Security via Quantum Mechanics
     * Verification of Computational Science (including Materials Science)
 
 ## People
