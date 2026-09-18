@@ -22,7 +22,7 @@ Assistant Professor, Electrical &amp; Computer Engineering, University of Illino
 
 <img width="30%" alt="Ben Kim" src="https://github.com/user-attachments/assets/e1ce3de8-59aa-4877-ae98-7370672a06cf" />
 
-[Ben Kim](https://www.linkedin.com/in/bkim34/) (co-advised with Lav Varshney)
+[Ben Kim](https://bkim34.github.io/) (co-advised with Lav Varshney)
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
 
