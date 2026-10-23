@@ -21,11 +21,13 @@ Check out the [faculty and students in the group](https://dacesresearch.org/peop
 ## Courses
 
 * Fall 2025, Fall 2026: [Topics in Informaton-Theoretic Cryptography](https://dacesresearch.org/infocrypto/)
-* Spring 2026: [Introduction to Algorithms &amp; Models of Computation](https://courses.grainger.illinois.edu/ece374bl1/sp2026/)
+* Spring 2026, Spring 2027: [Introduction to Algorithms &amp; Models of Computation](https://courses.grainger.illinois.edu/ece374bl1/)
 
 ## Tutorials
 
 * [SIGMOD 2025 Tutorial](https://dacesresearch.org/tutorials/sigmod2025/)
 
 ## Outreach
-Most of our outreach is done through the activities of [NaijaCoder, Inc.](http://naijacoder.org)
+
+* Site Director of [REU program on Secure and Reliable Quantum Information Networks](https://dacesresearch.org/quantumreu/)
+* President and co-founder of [NaijaCoder, Inc.](http://naijacoder.org)
