@@ -8,21 +8,17 @@
 
 Assistant Professor, Electrical &amp; Computer Engineering, University of Illinois Urbana-Champaign
 
-## M.S. Students
+## Ph.D. Students
 
 <img width="30%" alt="Tue Do" src="https://github.com/user-attachments/assets/f5299389-cb5a-4abd-842c-53cdfc948d99" />
 
-[Tue Ngoc Do](http://tuedo2.github.io/) (co-advised with Varun Chandrasekaran)
+[Tue Ngoc Do](http://tuedo2.github.io/) 
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+
+## M.S. Students
 
 [Aravind Ilango](https://ece.illinois.edu/about/directory/grad-students/ailango2)
-
-- M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
-
-<img width="30%" alt="Ben Kim" src="https://github.com/user-attachments/assets/e1ce3de8-59aa-4877-ae98-7370672a06cf" />
-
-[Ben Kim](https://bkim34.github.io/) (co-advised with Lav Varshney)
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
 
@@ -30,11 +26,19 @@ Assistant Professor, Electrical &amp; Computer Engineering, University of Illino
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
 
-## Visiting Students
+## Alumni
+
+<img width="30%" alt="Ben Kim" src="https://github.com/user-attachments/assets/e1ce3de8-59aa-4877-ae98-7370672a06cf" />
+
+[Ben Kim](https://bkim34.github.io/) (co-advised with Lav Varshney)
+
+- M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
+- *Next*: Ph.D. student at MIT EECS
 
 [Avi Bagchi](https://avibagchi.github.io/) (co-advised with Lav Varshney)
 
 - B.S.E. in Computer Science, University of Pennsylvania
+- *Next*: Ph.D. student at UT Austin CS
 
 [Siheng Pan](https://www.linkedin.com/in/siheng-pan)
 - M.S. in Computer Science, University of Illinois Urbana-Champaign
