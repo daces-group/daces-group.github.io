@@ -26,6 +26,12 @@ Assistant Professor, Electrical &amp; Computer Engineering, University of Illino
 
 - M.S. in Electrical & Computer Engineering, University of Illinois Urbana-Champaign
 
+## Undergraduate Students
+
+Elizabeth (Liz) Perez
+- B.S. in Computer Engineering, University of Illinois Urbana-Champaign
+- Class of 2028 ARISE Scholar 
+
 ## Alumni
 
 <img width="30%" alt="Ben Kim" src="https://github.com/user-attachments/assets/e1ce3de8-59aa-4877-ae98-7370672a06cf" />
